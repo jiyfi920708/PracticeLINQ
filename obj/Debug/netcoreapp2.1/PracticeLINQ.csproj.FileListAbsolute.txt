@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\PracticeLINQ\obj\Debug\netcoreapp2.1\PracticeLINQ.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PracticeLINQ\obj\Debug\netcoreapp2.1\PracticeLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PracticeLINQ\obj\Debug\netcoreapp2.1\PracticeLINQ.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\PracticeLINQ\obj\Debug\netcoreapp2.1\PracticeLINQ.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\PracticeLINQ\bin\Debug\netcoreapp2.1\PracticeLINQ.deps.json
+C:\Users\Administrator\Desktop\PracticeLINQ\bin\Debug\netcoreapp2.1\PracticeLINQ.runtimeconfig.json
+C:\Users\Administrator\Desktop\PracticeLINQ\bin\Debug\netcoreapp2.1\PracticeLINQ.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\PracticeLINQ\bin\Debug\netcoreapp2.1\PracticeLINQ.dll
+C:\Users\Administrator\Desktop\PracticeLINQ\bin\Debug\netcoreapp2.1\PracticeLINQ.pdb
+C:\Users\Administrator\Desktop\PracticeLINQ\obj\Debug\netcoreapp2.1\PracticeLINQ.dll
+C:\Users\Administrator\Desktop\PracticeLINQ\obj\Debug\netcoreapp2.1\PracticeLINQ.pdb
